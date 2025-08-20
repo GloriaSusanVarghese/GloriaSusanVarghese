@@ -31,5 +31,6 @@ Currently, I’m strengthening my technical foundation in Python (Pandas, NumPy)
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gloria-susan-varghese-11a16b191)  
+[LinkedIn](https://www.linkedin.com/in/gloria-susan-varghese-11a16b191)
+
 
